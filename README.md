@@ -10,10 +10,10 @@ Let’s assume for the sake of simplicity that one needs exactly 4 ingredients f
 
 şekerpare:
 
-    - eggs
-    - flour
-    - butter
-    - sugar
+- eggs
+- flour
+- butter
+- sugar
 
 
 There are N chefs in a street , and each has an endless supply of two distinct ingredients and lacks the
